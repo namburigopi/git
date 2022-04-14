@@ -1,0 +1,22 @@
+git stash
+git pull
+git commit
+git log
+git tag
+git branch
+git merge
+git cherry pick
+git rebase
+git chechout -b 
+git checkout -d
+git diff
+git reset
+git config 
+git clone
+git show 
+git rm 
+git init
+git status
+git add
+git remote
+git push
